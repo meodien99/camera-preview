@@ -18,4 +18,8 @@ gulp
 
 Then your browser will be opened immediately. 
 
+### Attention
+The demos use some modern web technology that might not work in older browsers.
+Tested in Firefox 45.0.1, Chromium 49.0, Vivaldi 1.0.435.42 .
+
 Enjoy.
