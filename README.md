@@ -1,6 +1,8 @@
 # camera-preview
 Demonstrating in 3D when chosen a seat position in cinema
 
+![camera preview](img/git/cinema.png)
+
 # How to install ?
 
 Simply clone this repository, at the root directory, run command:
